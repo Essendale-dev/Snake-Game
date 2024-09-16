@@ -1,0 +1,2 @@
+>Snake and food disappearing from window bug fixed
+>Food Spawning on Snake bug fixed
